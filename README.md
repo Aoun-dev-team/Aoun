@@ -1,10 +1,6 @@
-# Aoun — Next.js App
+# Aoun —
 
-Small, opinionated Next.js starter used in this workspace.
-
-## Overview
-
-A clean Next.js + TypeScript project with Tailwind and a small component library under `components/` and `components/ui/`.
+Small, opinionated mobile app starter used in this workspace.
 
 ## Quick Start
 
